@@ -5,7 +5,9 @@ This Python project provides utilities to compute the prime factorizations of tw
 The project consists of three main Python scripts:
 
 ***main.py:*** The main driver script that prompts the user for two numbers, computes their prime factorizations, combines them, and then calculates the result of their combination.
+
 ***combine_factors.py:*** Contains a function to combine two lists of prime factors into a single list representing the combined factorization.
+
 ***prime_factorization.py:*** Contains a function that performs prime factorization of a given number.
 
 ***Installation***
