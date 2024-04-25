@@ -15,7 +15,9 @@ No external libraries are required to run this project. You can simply clone thi
 
 ### Usage
 To run the program, navigate to the directory containing the files and run:
+
 py main.py
+
 You will be prompted to enter two integers. After entering the numbers, the script will display the combined prime factors and the result of their combination, which corresponds to the least common multiple of the two numbers.
 
 ### License
