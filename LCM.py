@@ -1,5 +1,4 @@
 def prime_factors(n):
-    """ Return the prime factorization of the integer n. """
     i = 2
     factors = []
     while i * i <= n:
@@ -13,7 +12,6 @@ def prime_factors(n):
     return factors
 
 def combine_factors(factors1, factors2):
-    """ Combine two lists of factors by taking the maximum count of each prime. """
     from collections import Counter
     count1 = Counter(factors1)
     count2 = Counter(factors2)
