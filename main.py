@@ -1,4 +1,4 @@
-from find_lcm import combine_factors
+from combine_factors import combine_factors
 from prime_factorization import prime_factors
 
 
