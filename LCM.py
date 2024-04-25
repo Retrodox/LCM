@@ -31,6 +31,7 @@ def main():
     factors2 = prime_factors(num2)
     
     final_factors = combine_factors(factors1, factors2)
+    print(final_factors)
     
     result = 1
     for factor in final_factors:
