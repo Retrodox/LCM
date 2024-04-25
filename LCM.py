@@ -1,3 +1,5 @@
+from collections import Counter
+
 def prime_factors(n):
     i = 2
     factors = []
@@ -12,7 +14,6 @@ def prime_factors(n):
     return factors
 
 def combine_factors(factors1, factors2):
-    from collections import Counter
     count1 = Counter(factors1)
     count2 = Counter(factors2)
     combined_factors = []
