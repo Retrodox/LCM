@@ -16,8 +16,8 @@ To run the program, navigate to the directory containing the files and run:
 py main.py
 You will be prompted to enter two integers. After entering the numbers, the script will display the combined prime factors and the result of their combination, which corresponds to the least common multiple of the two numbers.
 
-Contributing
+***Contributing***
 Contributions are welcome. Please fork this repository and submit your pull requests.
 
-License
+***License***
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
